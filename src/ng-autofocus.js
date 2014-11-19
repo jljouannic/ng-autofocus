@@ -9,12 +9,14 @@
 
   angular
     .module('ng-autofocus', [])
-    .directive('autofocus', function() {
+    .directive('autofocus', ['$timeout', function($timeout) {
       return {
         restrict: 'A',
         link: function($scope, element) {
-          element[0].focus();
+          $timeout(function() {
+            element[0].focus();
+          });
         }
       };
-    });
+    }]);
 })(angular);
