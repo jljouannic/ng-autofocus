@@ -1,7 +1,9 @@
 {
   "name": "ng-autofocus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An AngularJS directive that mimics the HTML input attribute autofocus when the directive is displayed",
+  "homepage": "http://jljouannic.github.io/ng-autofocus/",
+  "bugs": "https://github.com/jljouannic/ng-autofocus/issues",
   "main": "index.html",
   "devDependencies": {
     "commander": "^2.3.0",
@@ -21,11 +23,11 @@
   },
   "keywords": [
     "ng-autofocus",
-    "context menu",
-    "right click",
+    "autofocus",
+    "focus",
     "angularjs",
     "angular"
   ],
-  "author": "Ian Kennington Walter (http://ianvonwalter.com)",
+  "author": "https://github.com/jljouannic/ng-autofocus/graphs/contributors",
   "license": "MIT"
 }

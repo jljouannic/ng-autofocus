@@ -1,8 +1,8 @@
 /**
- * ng-autofocus - v0.0.1 - Mimics the HTML input attribute autofocus but instead
+ * ng-autofocus - v0.0.2 - Mimics the HTML input attribute autofocus but instead
  * focuses the element when the directive is displayed not just on page load
  *
- * @author Ian Kennington Walter (http://ianvonwalter.com)
+ * @author Jean-Louis Jouannic (https://github.com/jljouannic)
  */
 (function(angular) {
   'use strict';

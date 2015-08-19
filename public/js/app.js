@@ -1,8 +1,8 @@
 /**
  * Example application for ng-autocomplete
- * https://github.com/ianwalter/ng-autocomplete
+ * https://github.com/jljouannic/ng-autocomplete
  *
- * @author Ian Kennington Walter (http://ianvonwalter.com)
+ * @author Jean-Louis Jouannic (https://github.com/jljouannic)
  */
 
 (function(document, requirejs, require) {

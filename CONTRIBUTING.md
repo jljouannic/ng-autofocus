@@ -11,4 +11,4 @@ be available at [http://localhost:8080/](http://localhost:8080/).
 
 Thank you for your contribution!
 
-«–– [Ian](http://ianvonwalter.com)
+«–– [Jean-Louis](https://github.com/jljouannic)

@@ -1,21 +1,9 @@
-# [ng-autofocus](http://ianwalter.github.io/ng-autofocus/)
+# [ng-autofocus](http://jljouannic.github.io/ng-autofocus/)
 *An AngularJS directive that mimics the HTML input attribute autofocus when the directive is displayed*
 
+This project was created by [Ian Walter](https://github.com/ianwalter/) using [ng-boilerplate](https://github.com/ianwalter/ng-boilerplate).
 
-## Looking for a new owner/maintainer  
-> Please email me (my email is on my profile page: https://github.com/ianwalter)
-
----
-
-
-This project was built using
-[ng-boilerplate](https://github.com/ianwalter/ng-boilerplate)!
-
----
-
-### Implementation steps
-
-#### Step 1: Install ng-autofocus
+## Installation
 
 Install using Bower:
 
@@ -23,7 +11,5 @@ Install using Bower:
 bower install ng-autofocus --save
 ```
 
----
-
 I hope you find this useful!  
-⌁ [Ian](http://ianvonwalter.com)
+⌁ [Jean-Louis](https://github.com/jljouannic)
